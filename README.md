@@ -46,6 +46,6 @@ Satisfaction Correlation: Agents with quicker response times generally maintaine
 🛠 Tools Used
 Power BI Desktop: For building visualizations and dashboard.
 
-Excel Dataset: Source data (assumed format based on PDF visuals).
+Excel Dataset: Source data
 
-DAX (if applicable): For calculated columns and metrics.
+DAX: For calculated columns and metrics.
